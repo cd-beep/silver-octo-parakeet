@@ -1,2 +1,2 @@
 # silver-octo-parakeet
-Survival Analysis 
+Survival Analysis for Veterans’ Administration Lung Cancer Trial
